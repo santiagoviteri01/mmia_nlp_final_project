@@ -45,6 +45,6 @@ Two models are implemented to compare which one is better.
 - Documented and compared to understand the strengths and weaknesses of each model.
 
 ## Blog Website
-For more detailed insights and updates on this project, please visit our blog. [source] https://santiagoviteri01.github.io/santiagoviteri01.github.io./
+For more detailed insights and updates on this project, please visit the following link: [site](https://santiagoviteri01.github.io/santiagoviteri01.github.io./)
 
 
