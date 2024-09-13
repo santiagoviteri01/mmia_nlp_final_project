@@ -6,7 +6,7 @@ Based on news articles, this project focuses on predicting the likelihood of a f
 ## Configuration
 The project was developed using Google Colab, which provides an easy-to-use environment for running Jupyter notebooks with GPU support. Below are the steps to recreate the development environment:
 
-1. Clone the Repository: Clone this repository to your local machine using Git.
+1. Clone the Repository: Clone this repository to your local machine opening your terminal and using git clone.
 2. Visit Google Colab.
 3. Upload the notebook file from this repository to Google Colab.
 4. Setup and Run:
